@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-A personal finance tracker in plain HTML, CSS and JavaScript. It has no build step, no dependencies, no framework and no server. To run it, open `index.html` in a browser. All data lives in the browser's `localStorage`. Not a git repository.
+A personal finance tracker in plain HTML, CSS and JavaScript. It has no build step, no dependencies, no framework and no server. To run it, open `index.html` in a browser. All data lives in the browser's `localStorage`. Tracked in git (initial commit `c3b5ff2`).
 
 ## Commands
 
